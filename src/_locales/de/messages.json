@@ -1,0 +1,312 @@
+{
+  "extName": {
+    "message": "Web Activity Time Tracker - Web Analytics"
+  },
+  "extDescription": {
+    "message": "Verfolgen und begrenzen Sie die Zeit Ihrer Webaktivitäten und blockieren Sie den Zugang zu den Websites. Überwachen Sie Ihre Internetnutzung."
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "today": {
+    "message": "Heute"
+  },
+  "allTime": {
+    "message": "Gesamte Zeit"
+  },
+  "byDays": {
+    "message": "Täglich"
+  },
+  "noData": {
+    "message": "Keine Daten verfügbar"
+  },
+  "noDataForPeriod": {
+    "message": "Keine Daten für den ausgewählten Zeitraum"
+  },
+  "showAll": {
+    "message": "Alle Websites anzeigen"
+  },
+  "sortBy": {
+    "message": "Sortieren nach"
+  },
+  "usageTime": {
+    "message": "Verwendungszeit"
+  },
+  "session": {
+    "message": "Sitzung"
+  },
+  "someSession": {
+    "message": "Sitzungen"
+  },
+  "sessions": {
+    "message": "Sitzungen"
+  },
+  "days": {
+    "message": "Tage"
+  },
+  "aggregate": {
+    "message": "Gesammelte Daten seit"
+  },
+  "websites": {
+    "message": "Webseiten"
+  },
+  "cannotOpenFile": {
+    "message": "Aufgrund des Sicherheitsprotokolls können Sie eine lokale Datei nicht öffnen"
+  },
+  "document": {
+    "message": "Dokument"
+  },
+  "limit": {
+    "message": "Limit"
+  },
+  "d": {
+    "message": "d"
+  },
+  "h": {
+    "message": "h"
+  },
+  "m": {
+    "message": "m"
+  },
+  "s": {
+    "message": "s"
+  },
+  "firstActiveDay": {
+    "message": "Der erste aktive Tag"
+  },
+  "numberOfActiveDays": {
+    "message": "Gesamtzahl der aktiven Tage"
+  },
+  "totalNumberOfDays": {
+    "message": "Alle Tage"
+  },
+  "todayTime": {
+    "message": "Gesamtzeit heute"
+  },
+  "averageTime": {
+    "message": "Durchschnittliche Zeit an aktiven Tagen"
+  },
+  "mostActiveDay": {
+    "message": "Der aktivste Tag"
+  },
+  "mostInactiveDay": {
+    "message": "Der inaktivste Tag"
+  },
+  "todayInclude": {
+    "message": "Der heutige Tag ist in der Statistik enthalten. Aus der Statistik ausschließen."
+  },
+  "todayEcclude": {
+    "message": "Der heutige Tag ist aus der Statistik ausgeschlossen. In die Statistik einbeziehen."
+  },
+  "averageTimeByDays": {
+    "message": "Durchschnittliche Zeit für ausgewählte Tage"
+  },
+  "exportToCsv": {
+    "message": "Als CSV exportieren"
+  },
+  "week": {
+    "message": "Diese Woche"
+  },
+  "month": {
+    "message": "Diesen Monat"
+  },
+  "lastMonth": {
+    "message": "Letzter Monat"
+  },
+  "generalSettings": {
+    "message": "Einstellungen"
+  },
+  "whiteListSettings": {
+    "message": "Weiße Liste"
+  },
+  "limitsSettings": {
+    "message": "Beschränkungen"
+  },
+  "notificationsSettings": {
+    "message": "Benachrichtigungen"
+  },
+  "aboutSettings": {
+    "message": "Über die Erweiterung"
+  },
+  "viewTimeInBadge": {
+    "message": "Zeitindikator anzeigen",
+    "description": "Die aktuellen Informationen zur \"verbrauchten Zeit\" im Kurzformat anzeigen"
+  },
+  "deferringDescription": {
+    "message": "Die Sperre kann nur einmal pro Tag um 5 Minuten verschoben werden"
+  },
+  "allowDeferringBlock": {
+    "message": "Verzögerung der Sperre um 5 Minuten zulassen",
+    "description": "Nachdem die Site gesperrt wurde, können Sie die Sperrung einmal täglich um 5 Minuten verschieben"
+  },
+  "intervalInactivity": {
+    "message": "Zeiterfassung stoppen, bei Inaktivität für:",
+    "description": "Betrifft alle Aktionen mit der Maus oder der Tastatur"
+  },
+  "exportToCsvSetting": {
+    "message": "Ihre Webaktivitätsdaten als CSV-Datei exportieren",
+    "description": "Ihre Webaktivitäten für einen beliebigen Zeitraum exportieren"
+  },
+  "sec": {
+    "message": "Sekunden"
+  },
+  "min": {
+    "message": "Minute"
+  },
+  "2min": {
+    "message": "Minuten"
+  },
+  "mins": {
+    "message": "Minuten"
+  },
+  "whiteList": {
+    "message": "Aktivität und Zeit für diese Websites werden nicht erfasst."
+  },
+  "addWebsite": {
+    "message": "Website hinzufügen"
+  },
+  "enterWebsite": {
+    "message": "Namen der Website eingeben..."
+  },
+  "enterNotification": {
+    "message": "Text für die Benachrichtigung eingeben..."
+  },
+  "limits": {
+    "message": "Tägliche Zugriffsbeschränkungen für Websites",
+    "description": "Legen Sie die maximale Zeit fest, die pro Tag für den Besuch der Website zulässig ist. Nach dieser Zeit wird die Website gesperrt."
+  },
+  "limitsTip": {
+    "message": "Setzen Sie die Blockierungszeit auf 0 Stunden 0 Minuten, um die Website sofort zu blockieren."
+  },
+  "save": {
+    "message": "Speichern"
+  },
+  "showDailyNotifacation": {
+    "message": "Tägliche Zusammenfassung als Benachrichtigung",
+    "description": "Am Ende jedes Tages erhalten Sie eine Benachrichtigung mit einer Zusammenfassung Ihrer täglichen Nutzung."
+  },
+  "notificationTime": {
+    "message": "Benachrichtigungen für Websites",
+    "description": "Jedes Mal eine Benachrichtigung anzeigen, wenn Sie den angegebenen Zeitraum auf einer Website verbringen."
+  },
+  "notificationMessage": {
+    "message": "Benachrichtigungstext",
+    "description": "Dieser Text wird in der Benachrichtigung für Websites angezeigt"
+  },
+  "notificationTimeSetting": {
+    "message": "Tägliche Zusammenfassung um folgende Uhrzeit anzeigen:"
+  },
+  "github": {
+    "message": "Feedback zur Erweiterung geben oder ein Problem melden: "
+  },
+  "question": {
+    "message": "Eine Frage stellen oder Verbesserungen vorschlagen: "
+  },
+  "supportForm": {
+    "message": "Unterstützungsformular"
+  },
+  "doYouEnjoy": {
+    "message": "Gefällt Ihnen diese Erweiterung?"
+  },
+  "review": {
+    "message": "Schreiben Sie eine Bewertung!"
+  },
+  "block": {
+    "message": "Sie haben Ihr tägliches Nutzungslimit erreicht für "
+  },
+  "5mins": {
+    "message": "+ 5 Minuten"
+  },
+  "todayUsageTime": {
+    "message": "Bisherige Gesamtnutzungszeit "
+  },
+  "comparedToYesterday": {
+    "message": " im Vergleich zu gestern "
+  },
+  "mostVisited": {
+    "message": "Die meistbesuchte Website "
+  },
+  "dashboard": {
+    "message": "Übersicht"
+  },
+  "timeChartDescription": {
+    "message": "Dies ist eine stundenweise Zeitleiste für den Tag"
+  },
+  "enjoyAndReview": {
+    "message": "Gefällt Ihnen diese Erweiterung?",
+    "description": "Web Activity Time Tracker bewerten"
+  },
+  "removeAllData": {
+    "message": "Alle Daten entfernen",
+    "description": "Alle Daten und Statistiken der besuchten Websites für immer löschen."
+  },
+  "remove": {
+    "message": "Löschen"
+  },
+  "removeAllDataConfirm": {
+    "message": "Sind Sie sicher, dass Sie alle Daten löschen möchten?"
+  },
+  "cancel": {
+    "message": "Abbrechen"
+  },
+  "backupAndRestore": {
+    "message": "Sicherung und Wiederherstellen",
+    "description": "Sie können eine Sicherungskopie aller Daten für alle besuchten Websites herunterladen"
+  },
+  "backup": {
+    "message": "Sicherung"
+  },
+  "restore": {
+    "message": "Wiederherstellen"
+  },
+  "welcome": {
+    "message": "Willkommen bei Web Activity Time Tracker",
+    "description": "Web Activity Time Tracker ist eine <b>open-source</b>, <b>kostenlose</b> und <b>werbefreie</b> Erweiterung, mit der Sie die Zeit, die Sie für das Durchsuchen von Websites aufgewendet haben, und die Anzahl der Besuche nachverfolgen können."
+  },
+  "getStarted": {
+    "message": "Anleitung"
+  },
+  "welcomeStart": {
+    "message": "Sie können die Erweiterung in nur 3 einfachen Schritten schnell verwenden"
+  },
+  "pinIcon": {
+    "message": "Pin das Symbol"
+  },
+  "pinIconPart1": {
+    "message": "Um diese Erweiterung bequemer zu verwenden, können Sie das Symbol an die Symbolleiste anheften. Klicken Sie auf das Symbol"
+  },
+  "pinIconPart2": {
+    "message": "und klicken Sie dann auf das Pin-Symbol"
+  },
+  "browse": {
+    "message": "Durchsuchen Sie alle Websites",
+    "description": "Wenn Sie eine Website besuchen, werden Sie sehen, dass die Uhrzeit auf dem Symbol angezeigt wird, genau wie hier"
+  },
+  "seeData": {
+    "message": "Zeigen Sie Ihre Daten auf der Popup-Seite und im Dashboard an",
+    "description": "Klicken Sie auf das Erweiterungssymbol, um eine Popup-Seite zu öffnen, und Sie können die mit einem Kreisdiagramm gerenderten Daten für heute, für alle Zeiten oder für Tage lesen. In einem Popup-Fenster können Sie das Dashboard öffnen, und es zeigt Ihnen die heutige Zeit nach Stunden an. Und Sie können ein tägliches Zeitlimit für alle Websites festlegen, Benachrichtigungen für Websites festlegen oder Daten in CSV exportieren."
+  },
+  "close": {
+    "message": "Schließen"
+  },
+  "useExtension": { 
+    "message": "Verwenden Sie die Erweiterung"
+  },
+  "next": {
+    "message": "Weiter"
+  },
+  "showChangelog": {
+    "message": "Änderungsliste anzeigen",
+    "description": "Zeigen Sie die Liste der Änderungen nach dem Aktualisieren der Erweiterung an"
+  },
+  "byHours": {
+    "message": "Stundenweise"
+  },
+  "intervals": {
+    "message": "Intervalle"
+  },
+  "intervalsChart": {
+    "message": "Nur Zeitintervalle größer als",
+    "description": "werden angezeigt"
+  }
+}
