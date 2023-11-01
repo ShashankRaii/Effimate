@@ -77,7 +77,7 @@ input[type='button'].small-btn {
 }
 
 a {
-  color: #3477db;
+  color: #533e69;
   text-decoration: none;
   cursor: pointer;
 }
@@ -183,8 +183,8 @@ label {
   top: 0;
   width: 17px;
   height: 17px;
-  border: 2px solid #3477db;
-  background-color: #3477db;
+  border: 2px solid #533e69;
+  background-color: #533e69;
   z-index: 0;
 }
 
@@ -196,7 +196,7 @@ label {
   width: 220px;
   height: 27px;
   margin: auto;
-  background-color: rgb(21, 104, 0);
+  background-color: #533e69;
   color: rgb(255, 255, 255);
   text-align: center;
   font-weight: 600;
@@ -295,7 +295,7 @@ label {
 }
 [type='radio']:checked ~ label {
   background: white;
-  border-bottom: 2px solid #8bc34a;
+  border-bottom: 2px solid #000000;
   z-index: 2;
 }
 [type='radio']:checked ~ label ~ .settings-content {

@@ -1,7 +1,7 @@
 :root {
-  --main-color: #6ebf5d;
-  --popup-header: #efefef;
-  --progress-bar: #428bff;
+  --main-color: #000000;
+  --popup-header: #ffffff;
+  --progress-bar: #533e69;
 }
 
 .no-data {
@@ -62,7 +62,7 @@ select {
   width: 80%;
 }
 input[type='button'] {
-  background: #428bff;
+  background: #533e69;
   color: #fff;
   border-radius: 3px;
   height: 36px;
@@ -78,7 +78,7 @@ input[type='button'] {
 }
 
 input[type='button']:hover {
-  background: #5c9dfe;
+  background: #533e69;
   text-decoration: none;
 }
 

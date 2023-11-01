@@ -79,10 +79,10 @@ function openChart(type: TypeOfChart) {
   height: 390px;
 }
 .chart-btn {
-  background-color: rgb(202, 202, 202);
+  background-color: #533e69;
 }
 
 .chart-btn.active {
-  background-color: #428bff;
+  background-color: #533e69;
 }
 </style>
