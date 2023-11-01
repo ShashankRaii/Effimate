@@ -20,7 +20,6 @@ Browser.storage.onChanged.addListener((changes, namespace) => {
   }
 });
 
-Browser.runtime.setUninstallURL('https://webtracker.online/goodbye.html');
 
 Browser.runtime.onInstalled.addListener(async details => {
   if (details.reason == 'install') {
@@ -28,11 +27,11 @@ Browser.runtime.onInstalled.addListener(async details => {
     const settingsStorage = injecStorage();
     await settingsStorage.saveValue(StorageParams.INSTALL_DATE, todayLocalDate());
 
-    const initialPageUrl = Browser.runtime.getURL('src/welcome.html');
-    await Browser.tabs.create({
-      url: initialPageUrl,
-      active: true,
-    });
+    // const initialPageUrl = Browser.runtime.getURL('src/welcome.html');
+    // await Browser.tabs.create({
+    //   url: initialPageUrl,
+    //   active: true,
+    // });
   }
   if (details.reason == 'update') {
     const showChangelog = (await Settings.getInstance().getSetting(
