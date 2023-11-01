@@ -99,21 +99,7 @@
     />
     <input type="button" class="ml-10" :value="t('restore.message')" @click="restore()" />
   </div>
-  <div class="settings-item">
-    <label class="setting-header">
-      <input
-        type="checkbox"
-        class="filled-in"
-        id="showChangelog"
-        v-model="showChangelog"
-        @change="onChange(StorageParams.SHOW_CHANGELOG, $event.target)"
-      />
-      <span>{{ t('showChangelog.message') }}</span>
-      <p class="description">
-        {{ t('showChangelog.description') }}
-      </p>
-    </label>
-  </div>
+  
   <div id="removeAllConfirmModal" class="modal" v-if="needToConfirmDeleteAllData">
     <div class="modal-content">
       <p class="text-center">{{ t('removeAllDataConfirm.message') }}</p>
